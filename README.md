@@ -41,7 +41,7 @@ This repository contains Python code implementing Lasso regression and an Induct
 
 ## Dependencies
 
-- Python 3.x
+- Python3
 - scikit-learn
 - pandas
 - matplotlib
@@ -64,9 +64,7 @@ This repository contains Python code implementing Lasso regression and an Induct
 3. Run the Python scripts as needed:
 
    ```bash
-   python lasso_diabetes.py
-   python lasso_diabetes_tabsep.py
-   python conformal_prediction.py
+   python Lasso_and_Inductive_Conformal_Prediction_Algorithm.ipynb
    ```
 
 Feel free to explore and modify the code to suit your specific needs. For more details, refer to the comments within each script.
